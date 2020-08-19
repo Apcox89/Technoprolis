@@ -1,0 +1,13 @@
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\bin\Debug\Technoprolis.exe.config
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\bin\Debug\Technoprolis.exe
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\bin\Debug\Technoprolis.pdb
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\bin\Debug\Engine.dll
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\bin\Debug\Engine.pdb
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.csprojAssemblyReference.cache
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.Properties.Resources.resources
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.csproj.GenerateResource.cache
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.csproj.CoreCompileInputs.cache
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.csproj.CopyComplete
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.exe
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.pdb
+A:\Users\G-Rig\source\repos\Technoprolis\Technoprolis\obj\Debug\Technoprolis.Technoprolis.resources

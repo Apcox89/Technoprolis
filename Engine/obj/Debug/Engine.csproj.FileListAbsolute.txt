@@ -1,0 +1,6 @@
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\bin\Debug\Engine.dll
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\bin\Debug\Engine.pdb
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\obj\Debug\Engine.dll
+A:\Users\G-Rig\source\repos\Technoprolis\Engine\obj\Debug\Engine.pdb
